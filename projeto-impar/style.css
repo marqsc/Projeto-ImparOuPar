@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(211, 170, 202);
+    
+}
+
+header{
+    text-align: center;
+    margin: 0rem 30rem ;
+}
+
+#titulo{
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    color: rgb(255, 255, 255);
+}
+
+.entradaValor{
+    text-align: center;
+}
+
+.valorJogador{
+    background-color: rgb(255, 255, 255);
+    margin: 0rem 30rem ;
+}
+
+.pontuacao{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin: 0rem 30rem ;
+}
